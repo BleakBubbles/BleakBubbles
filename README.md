@@ -1,15 +1,15 @@
 <h1 align="center">Hi! This is Max Hua, a.k.a BleakBubbles.</h1>
 <h3 align="center">A full-stack developer from Toronto, studying CS + Finance @ UWaterloo.</h3>
 
-- 🔭 I’m currently working on [Gundle](https://github.com/BleakBubbles/Gundle)
+- 🔭 I’m currently working on: [Gundle](https://github.com/BleakBubbles/Gundle)
 
-- 🌱 I’m currently learning **React, Vue.js, Node.js, Express.js**
+- 🌱 I’m currently learning: **React, Vue.js, Next.js, Express.js**
 
-- 📫 How to reach me **max.hua@uwaterloo.ca**
+- 📫 How to reach me: **max.hua@uwaterloo.ca**
 
 - 📄 Check out my experiences [here](https://drive.google.com/file/d/1R9gZjoVpy_PWEbfa84oBcKZz7mic_Imu/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy classical music**
+- ⚡ Fun fact: **I enjoy classical music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
