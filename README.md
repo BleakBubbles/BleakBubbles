@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Gundle](https://github.com/BleakBubbles/Gundle)
 
-- 🌱 I’m currently learning: **React, Vue.js, Next.js, Express.js**
+- 🌱 I’m currently learning: **React.js, Next.js**
 
 - 📫 How to reach me: **max.hua@uwaterloo.ca**
 
